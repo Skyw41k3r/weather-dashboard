@@ -5,7 +5,7 @@ I have created an application where you can search for weather information in an
 This website was created to find out the weather all around the country! \
 
 # Deployment 🚀
-The assignment was deployed through git hub.
+The assignment was deployed through github.
 Try the weather search yourself! 
 
 
