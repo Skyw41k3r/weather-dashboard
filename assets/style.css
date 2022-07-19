@@ -1,0 +1,8 @@
+.section {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.sectionTwo {
+    flex-direction: column;
+}
