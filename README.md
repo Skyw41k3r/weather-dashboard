@@ -1,4 +1,4 @@
-# Weather Dashboard ⛅
+# Weather Dashboard 🌦️
 I have created an application where you can search for weather information in any city!
 
 # About 📖
